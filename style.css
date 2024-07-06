@@ -1,0 +1,16 @@
+body {
+   background-color: black;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+
+}
+
+p {
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(179, 0, 90);
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
